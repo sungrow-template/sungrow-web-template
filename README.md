@@ -1,1 +1,1 @@
-# sungrow-cli
+# sungrow-web-template
