@@ -1,1 +1,1 @@
-# sungrow-web-template
+# web-template
